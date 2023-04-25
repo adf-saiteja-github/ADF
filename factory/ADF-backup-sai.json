@@ -1,0 +1,9 @@
+{
+	"name": "ADF-backup-sai",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffdabdcc-90a8-4997-8729-fd09566f7130",
+		"tenantId": "16216387-9dd5-4d62-b62e-c13ce1f332e5"
+	}
+}
